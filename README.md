@@ -1,5 +1,5 @@
 # ABOUT ME
-- 😎 Hi, My name is **[Yohana](http://yohana.atwebpages.com)**.
+- 😎 Hi, My name is **[Yohana](http://yohana.atwebpages.com)** from Tanzania 🇹🇿.
 
 - 🔭 I’m currently learning to **Web development** 
 - 🌱 I’m currently learning **PHP** & **MySQL**
