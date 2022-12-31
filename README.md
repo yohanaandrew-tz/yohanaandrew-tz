@@ -1,7 +1,7 @@
 # ABOUT ME
 - 😎 Hi, My name is **[Yohana](http://yohana.atwebpages.com)**.
 
-- 🔭 I’m currently working on **Web development** 
+- 🔭 I’m currently learning to **Web development** 
 - 🌱 I’m currently learning **PHP** & **MySQL**
 - 👯 I’m looking for collaboration on **Programming** 
 - 💬 [Click here](mailto:yohana_andrew129@yahoo.com) to message me.
